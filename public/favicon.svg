@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Central.ai</title>
+  <desc id="desc">Open Gate: a split, open frame built from two mirrored geometric forms.</desc>
+  <g fill="currentColor">
+    <path d="M16 4h8c5.46 0 10.07 3.646 11.525 8.66l-7.045 1.887C27.829 12.448 26.072 11 24 11h-8a5 5 0 0 0-5 5v2H4v-2C4 9.373 9.373 4 16 4Z"/>
+    <path d="M16 36h8c5.46 0 10.07-3.646 11.525-8.66l-7.045-1.887C27.829 27.552 26.072 29 24 29h-8a5 5 0 0 1-5-5v-2H4v2c0 6.627 5.373 12 12 12Z"/>
+  </g>
+</svg>
